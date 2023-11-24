@@ -4,6 +4,9 @@
 - 💞️ I’m looking to domain experts to  review this application  and tell the nessary suggestions to improve the functionality of the application..
 - 📫 Call 9840863341 or via mail info@vrishab.in...
 - for demo (https://hr.textilemind.in/)
+- To login credentials
+- Username : admin
+- Password : admin
 
 <!---
 krkumar1961/krkumar1961 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
